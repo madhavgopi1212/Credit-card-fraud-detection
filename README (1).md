@@ -13,7 +13,6 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - [Technologies Used](#technologies-used)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 Credit card fraud detection is crucial for financial security. This project employs supervised learning to detect potentially fraudulent transactions based on historical data, using features like transaction time, amount, and anonymized attributes.
@@ -30,7 +29,7 @@ Ensure you have Python and the required libraries installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/madhavagopi1212/credit-card-fraud-detection.git
 
 # Change to the project directory
 cd credit-card-fraud-detection
@@ -64,8 +63,6 @@ The final model’s performance metrics are as follows:
 - **Precision**: Z%
 - **F1 Score**: W%
 
-(Replace these placeholders with specific results obtained from your model evaluation.)
-
 ## Technologies Used
 - **Programming Language**: Python
 - **Libraries**: Scikit-Learn, XGBoost, Pandas, NumPy
@@ -79,6 +76,3 @@ Potential future enhancements to this project include:
 
 ## Contributing
 Contributions are encouraged! If you’d like to improve this project, feel free to fork the repository, make changes, and submit a pull request. Please make sure to update tests as appropriate.
-
-## License
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
