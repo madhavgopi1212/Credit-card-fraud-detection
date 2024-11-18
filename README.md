@@ -69,7 +69,7 @@ The final model’s performance metrics are as follows:
 
 ## Technologies Used
 - **Programming Language**: Python
-- **Libraries**: Scikit-Learn, XGBoost, Pandas, NumPy
+- **Libraries**: Scikit-Learn, Pandas, NumPy
 - **Tools**: Jupyter Notebook, Matplotlib, Seaborn (for visualization)
 
 ## Future Improvements
